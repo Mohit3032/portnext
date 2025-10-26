@@ -116,11 +116,11 @@ const detailData = [
     date: " May 13, 2025",
     category: "Detail",
     share: [
-      // {
-      //   id: 1,
-      //   iconName: "icon-github-squared",
-      //   link: "https://www.facebook.com/",
-      // },
+      {
+        id: 1,
+        iconName: "icon-share",
+        link: "https://www.divyachemicalindustry.com",
+      },
       // {
       //   id: 2,
       //   iconName: "icon-share",
